@@ -1,6 +1,6 @@
 # AI Learning Agent for Children
 
-This project is focused on developing an AI agent designed to assist children in their learning journey.
+This project aims to develop a comprehensive educational AI agent for children. It will guide children on a learning journey through human history, providing education that progresses from basic concepts to more in-depth topics, all while making learning engaging and enjoyable through gamification.
 
 ## Overview
 
